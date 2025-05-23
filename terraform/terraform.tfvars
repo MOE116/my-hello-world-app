@@ -1,0 +1,5 @@
+instance_type    = "t3.medium"
+key_pair_name    = "yourkeypair.pemkeyfilename"
+docker_password  = "yourdockerpassword"
+docker_username  = "yourdockerusername"
+docker_image_name = "my-hello-world-app-web:latest"
