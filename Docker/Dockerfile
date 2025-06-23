@@ -7,5 +7,6 @@ COPY Website /usr/share/nginx/html
 
 # Expose port 80, the default HTTP port Nginx listens on
 EXPOSE 80
+
 # The default command of the Nginx image starts the web server
 # No need to specify CMD here unless you want to override it
